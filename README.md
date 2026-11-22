@@ -87,7 +87,9 @@ The client web interface allows users to enter custom statements or load one-cli
 
 ---
 
-## 6. Repository Structure
+6. Real-World Usages & ApplicationsMindSense AI is designed for seamless integration into digital healthcare, academic, workplace, and personal wellness ecosystems. By processing natural language text inputs in real time, the detector provides scalable early-warning capabilities and actionable insights across various operational environments.Deployment DomainPractical Usage ScenarioKey Benefits & ImpactUniversity & Educational PortalsIntegrated into student wellness check-in portals to monitor exam stress and academic burnout.Enables early intervention by campus counselors before academic performance deteriorates.Corporate HR & Employee PlatformsUsed in anonymous employee sentiment surveys and workplace pulse checks.Helps HR teams identify high-burnout departments and implement workload pacing strategies.Telehealth & Digital Mental Health ClinicsServes as a pre-consultation intake triage tool for mental health practitioners.Prioritizes urgent patient cases and gives clinicians pre-session emotional diagnostics.Crisis Helplines & Online Support ForumsScans incoming forum posts and chat messages for critical self-harm or crisis language.Automatically alerts human moderators for immediate crisis intervention and helpline escalation.Personal Journaling & Wellness AppsPowers daily mood-tracking and self-reflection features in personal wellness apps.Provides users with private, stigma-free self-awareness and personalized coping routines.
+
+## 7. Repository Structure
 
 | File | Description |
 | :--- | :--- |
@@ -103,7 +105,7 @@ The client web interface allows users to enter custom statements or load one-cli
 
 ---
 
-## 7. Setup & Execution Guide
+## 8. Setup & Execution Guide
 
 Follow the sequential steps below to clone the repository, install dependencies, and run the model locally.
 
